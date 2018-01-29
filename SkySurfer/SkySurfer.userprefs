@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BBB25F5B-E45F-C788-B0BB-7A9F51DD7149}|">
+  <MonoDevelop.Ide.ItemProperties.SkySurfer PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MANAGERS/MervManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MANAGERS/MervManager.cs" Line="63" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

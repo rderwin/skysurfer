@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{C12018B5-5E88-DE9C-F7B9-EDA42B5AAFDC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MANAGERS/PushSpaceToStart.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MANAGERS/CrappyPlayerManager.cs" Line="118" Column="38" />
+      <File FileName="Assets/Scripts/MANAGERS/MoveLeftRepeat.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/MANAGERS/MoveLeftAndWarp.cs" Line="41" Column="35" />
+      <File FileName="Assets/Scripts/MANAGERS/MervManager.cs" Line="79" Column="24" />
+      <File FileName="Assets/Scripts/PlayButtonScript.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/Control.cs" Line="10" Column="2" />
+      <File FileName="Assets/Scripts/MANAGERS/GlobalControl.cs" Line="23" Column="26" />
+      <File FileName="Assets/Scripts/DifficultyButtonScript.cs" Line="16" Column="18" />
+      <File FileName="Assets/Scripts/Gravity.cs" Line="24" Column="36" />
+      <File FileName="Assets/Scripts/MANAGERS/CloudMover.cs" Line="30" Column="94" />
+      <File FileName="Assets/Scripts/MANAGERS/PushSpaceToStart.cs" Line="14" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.somegame PreferredExecutionTarget="Unity.Editor" />
+</Properties>
